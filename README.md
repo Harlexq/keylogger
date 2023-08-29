@@ -13,7 +13,7 @@ Sorumluluk Projeyi Yapan Kişiye Yani Serhan Bakır'a Ait Değildir Sadece Eğit
 
    - Gerekli Python modüllerini yüklemek için aşağıdaki komutları kullanın:
      ```
-     pip install pynput discord.py threading subprocess os shutil sys
+     pip install pynput discord.py threading subprocess os shutil sys pyinstaller
      ```
    - `main.py` dosyasındaki `token` ve `channelID` değerlerini Discord botunuzun token'ı ve istediğiniz kanalın ID'si ile değiştirin.
    - Projeyi Exe dosyası halina getirmek için aşağıdaki komutu terimale yazınız bu exe dosyası ana dizinde dis klasörü altında oluşacaktır
@@ -54,7 +54,7 @@ Responsibility does not belong to the person who made the project, namely Serhan
 
    - Use the following commands to install the required Python modules:
      ```
-     pip install pynput discord.py threading subprocess os shutil sys
+     pip install pynput discord.py threading subprocess os shutil sys pyinstaller
      ```
    - Replace the `token` and `channelID` values in the `main.py` file with your Discord bot's token and the ID of the desired channel.
    - To make the project Exe file, type the following command. This exe file will be created in dis parts in the main directory.
